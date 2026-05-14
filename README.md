@@ -84,12 +84,11 @@
 
 <div align="center">
 
-### GitHub 活跃度
+### 常用语言（Top languages）
 
 <!-- 由仓库内 Actions 生成 SVG，避免第三方 Vercel 实例不稳定导致图片裂开 -->
-<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
-<sub>统计图由 <code>.github/workflows/update-readme-stats.yml</code> 定时更新；若首次未显示，请到仓库 <strong>Actions</strong> 手动运行一次 <strong>Update README stats cards</strong>。</sub>
+<sub>语言图由 <code>.github/workflows/update-readme-stats.yml</code> 定时更新；若未显示，请到仓库 <strong>Actions</strong> 手动运行一次 <strong>Update README top languages card</strong>。</sub>
 
 </div>
