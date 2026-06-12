@@ -4,7 +4,7 @@
 
 **Java 开发工程师** · 9 年经验 · 微服务 & 高并发 & 行业数字化
 
-*常驻潍坊 · 专注智慧能源 / 加油行业全链路平台*
+*专注智慧能源 / 加油行业全链路平台*
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaXiaofei-181717?style=flat-square&logo=github)](https://github.com/MaXiaofei)
 [![Email](https://img.shields.io/badge/Email-xinyuejunxin@126.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xinyuejunxin@126.com)
@@ -36,7 +36,7 @@
 | 框架 | Spring Boot、Spring Cloud、MyBatis |
 | 治理 / 网关 | Nacos、Spring Cloud Gateway |
 | 数据 | MySQL、Redis |
-| 消息 | RabbitMQ |
+| 消息 | RocketMQ |
 | 工程化 | Git、Maven、Linux |
 
 ---
@@ -69,7 +69,7 @@
 
 **背景**：面向车主、油站、运营方的全链路数字化平台，覆盖加油与支付、营销、会员与积分商城、电子发票、充值卡等。
 
-**技术**：Spring Boot、Spring Cloud、Nacos、Gateway、MyBatis、MySQL、Redis、RabbitMQ。
+**技术**：Spring Boot、Spring Cloud、Nacos、Gateway、MyBatis、MySQL、Redis、RocketMQ。
 
 **职责摘要**：支付 / 充值卡 / 优惠券 / 积分商城 / 发票；油站后台与班结订单；运营后台权限与统计；**乐刷支付**独立对接；统计与核心业务慢 SQL 治理；线上故障排查与高可用保障。
 
